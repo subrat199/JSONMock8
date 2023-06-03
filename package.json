@@ -1,0 +1,23 @@
+{
+  "name": "jsonmock8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subrat199/JSONMock8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subrat199/JSONMock8/issues"
+  },
+  "homepage": "https://github.com/subrat199/JSONMock8#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
